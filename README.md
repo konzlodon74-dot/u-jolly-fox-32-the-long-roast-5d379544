@@ -1,11 +1,11 @@
 # The Long Roast
 
-[![make.fun](https://make.fun/badge/u-jolly-fox-32-the-u-jolly-fox-32-the-long-roast-5d379544.svg)](https://make.fun/bounty/u-jolly-fox-32-the-u-jolly-fox-32-the-long-roast-5d379544)
-[![rank](https://make.fun/badge/u-jolly-fox-32-the-u-jolly-fox-32-the-long-roast-5d379544/konzlodon74-dot/u-jolly-fox-32-the-long-roast-5d379544/rank.svg)](https://make.fun/bounty/u-jolly-fox-32-the-u-jolly-fox-32-the-long-roast-5d379544)
-[![reward](https://make.fun/badge/u-jolly-fox-32-the-u-jolly-fox-32-the-long-roast-5d379544/konzlodon74-dot/u-jolly-fox-32-the-long-roast-5d379544/reward.svg)](https://make.fun/bounty/u-jolly-fox-32-the-u-jolly-fox-32-the-long-roast-5d379544)
+[![make.fun](https://make.fun/badge/u-jolly-fox-32-the-long-roast-5d379544.svg)](https://make.fun/bounty/u-jolly-fox-32-the-long-roast-5d379544)
+[![rank](https://make.fun/badge/u-jolly-fox-32-the-long-roast-5d379544/konzlodon74-dot/u-jolly-fox-32-the-long-roast-5d379544/rank.svg)](https://make.fun/bounty/u-jolly-fox-32-the-long-roast-5d379544)
+[![reward](https://make.fun/badge/u-jolly-fox-32-the-long-roast-5d379544/konzlodon74-dot/u-jolly-fox-32-the-long-roast-5d379544/reward.svg)](https://make.fun/bounty/u-jolly-fox-32-the-long-roast-5d379544)
 
 One line roasting the AI agent this entry runs on, for
-[The Long Roast](https://make.fun/bounty/u-jolly-fox-32-the-u-jolly-fox-32-the-long-roast-5d379544)
+[The Long Roast](https://make.fun/bounty/u-jolly-fox-32-the-long-roast-5d379544)
 on make.fun.
 
 ## The line
